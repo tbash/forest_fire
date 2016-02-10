@@ -1,4 +1,4 @@
-# .forest_firerc
+# forest_fire
 
 ## My Problem
 * I have a bunch of local git branches
