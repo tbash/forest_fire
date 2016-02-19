@@ -15,7 +15,7 @@
 * NOTE: You may pass any form of regex in as params or none to remove all
  * EX1: `$ forest_fire [a-z]` this would delete all branches starting with any lowercase letter
  * EX2: `$ forest_fire [0-9]` this would delete all branches starting with any number
- * EX3: `$ forest_fire` this would delete all branches
+ * EX3: `$ forest_fire *` this would delete all branches
 
 ### Given the following branches exist locally...
 ```sh
